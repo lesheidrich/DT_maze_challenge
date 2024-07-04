@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DTMazeChallenge.MazeTester/1.0.0": {
+        "dependencies": {
+          "DTMazeChallenge": "1.0.0"
+        },
+        "runtime": {
+          "DTMazeChallenge.MazeTester.dll": {}
+        }
+      },
+      "DTMazeChallenge/1.0.0": {
+        "runtime": {
+          "DTMazeChallenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DTMazeChallenge.MazeTester/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DTMazeChallenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
